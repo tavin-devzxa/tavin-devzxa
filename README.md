@@ -4,7 +4,7 @@
 
 Me chamo Otavio Maurosso Vaz, tenho 18 anos e sou natural de São Paulo. Concluí ensino médio na ETEC Prof. Mario Antonio Verza, com o curso de técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FEMA. Sou louco por tecnologia e sempre quero aprender mais e mais :)
 
-FEMA - HUB INOVA
+FEMA - ANALISE E DENVOLVIMENTO DE SISTEMAS 
 
 ### 🤖 Linguagens e Tecnologias
 

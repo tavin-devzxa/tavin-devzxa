@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/tavinxy_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="35" height="35"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="35" height="35"/>
   </a>
 </p>
 

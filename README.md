@@ -33,19 +33,11 @@
 
 ---
 
-### 🐍 Snake das contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tavin-devzxa/tavin-devzxa/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tavin-devzxa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavin-devzxa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=tavin-devzxa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tavin-devzxa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">

@@ -40,15 +40,15 @@
   <tr>
     <td align="center">
       <b>🗄️ Banco de Dados</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" width="48" height="48"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="48" height="48"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/000000/sqlite.png" title="SQLite" width="45" height="45"/>
     </td>
     <td align="center">
       <b>🧰 Ferramentas</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="48" height="48"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="48" height="48" style="background-color:white;border-radius:8px;padding:2px"/>&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" width="48" height="48"/>&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/microsoftword/2B579A" title="Word" width="48" height="48"/>
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" title="GitHub" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" title="Excel" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/000000/ms-word.png" title="Word" width="45" height="45"/>
     </td>
   </tr>
 </table>

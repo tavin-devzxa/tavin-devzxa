@@ -1,17 +1,17 @@
-<h1 align="center">Olá, eu sou o Otavio 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=220&section=header&text=Olá,+eu+sou+o+Otavio+👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor+FullStack+%7C+Estudante+de+ADS+na+FEMA&descAlignY=58&descSize=17&descColor=ffffff" alt="Header"/>
+</p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0F5&center=true&vCenter=true&width=520&lines=Desenvolvedor+FullStack;Estudante+de+ADS+na+FEMA;Apaixonado+por+Tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%3A%29" alt="Typing SVG" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA0F5&center=true&vCenter=true&width=520&lines=Apaixonado+por+Tecnologia+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%3A%29;Curioso+por+natureza" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tavin-devzxa&label=Visualizações+no+perfil&color=2EA0F5&style=flat" alt="visitor badge" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Sobre%20mim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Sobre+mim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60" alt="Sobre mim"/>
 </p>
 
 <table align="center" width="90%">
@@ -43,9 +43,9 @@
 
 <br>
 
----
-
-### 🛠️ Skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Skills&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60" alt="Skills"/>
+</p>
 
 <div align="center">
 
@@ -81,9 +81,15 @@
 
 </div>
 
----
+<br>
 
-### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Estatísticas+do+GitHub&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=60" alt="Estatísticas do GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tavin-devzxa&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=tavin-devzxa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -98,18 +104,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tavin-devzxa&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
----
+<br>
 
-### 🌐 Conecte-se comigo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Conecte-se+comigo&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=60" alt="Conecte-se comigo"/>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/tavinxy_" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="35" height="35"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
 
----
+<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=100&section=footer" alt="Footer"/>
 </p>

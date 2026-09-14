@@ -10,20 +10,46 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EA0F5&height=90&section=header&text=Sobre%20mim&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=60" />
+</p>
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **FEMA**
-- 🏫 Técnico em Informática pela **ETEC Prof. Mario Antonio Verza**
-- 📍 São Paulo, Brasil
-- 💡 Curioso por natureza, sempre estudando algo novo em tecnologia
-- 🔭 Atualmente aprofundando conhecimentos em desenvolvimento FullStack
-- ⚡ Fun fact: acredito que aprender nunca é demais!
+<table align="center" width="90%">
+  <tr>
+    <td width="40">🎓</td>
+    <td>Cursando <b>Análise e Desenvolvimento de Sistemas</b> na <b>FEMA</b></td>
+  </tr>
+  <tr>
+    <td>🏫</td>
+    <td>Técnico em Informática pela <b>ETEC Prof. Mario Antonio Verza</b></td>
+  </tr>
+  <tr>
+    <td>📍</td>
+    <td>São Paulo, Brasil</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Curioso por natureza, sempre estudando algo novo em tecnologia</td>
+  </tr>
+  <tr>
+    <td>🔭</td>
+    <td>Atualmente aprofundando conhecimentos em desenvolvimento FullStack</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td>Fun fact: acredito que aprender nunca é demais!</td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
 ### 🛠️ Skills
 
-<table width="100%">
+<div align="center">
+
+<table width="80%">
   <tr>
     <td align="center" width="50%">
       <b>🎨 Front-End</b><br><br>
@@ -52,6 +78,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

@@ -40,8 +40,8 @@
   <tr>
     <td align="center">
       <b>🗄️ Banco de Dados</b><br><br>
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="SQL" width="45" height="45"/>&nbsp;&nbsp;
-      <img src="https://img.icons8.com/color/48/000000/sqlite.png" title="SQLite" width="45" height="45"/>
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" title="SQL" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="45" height="45"/>
     </td>
     <td align="center">
       <b>🧰 Ferramentas</b><br><br>

@@ -21,19 +21,37 @@
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🛠️ Skills
 
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45"/>&nbsp;
-</p>
+<table>
+  <tr>
+    <td align="center" width="230">
+      <b>Front-End</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+    </td>
+    <td align="center" width="230">
+      <b>Back-End</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Banco de Dados</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <b>Ferramentas</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg" title="Excel" width="40" height="40"/>&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/word/word-original.svg" title="Word" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

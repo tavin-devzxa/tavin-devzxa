@@ -16,7 +16,7 @@
 - 🏫 Técnico em Informática pela **ETEC Prof. Mario Antonio Verza**
 - 📍 São Paulo, Brasil
 - 💡 Curioso por natureza, sempre estudando algo novo em tecnologia
-- 🔭 Atualmente aprofundando conhecimentos em desenvolvimento FullStack
+- 🔭 Atualmente aprofundando conhecimentos em desenvolvimento Backend
 - ⚡ Fun fact: acredito que aprender nunca é demais!
 
 ---

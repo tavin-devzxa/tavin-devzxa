@@ -29,32 +29,40 @@
   <tr>
     <td align="center" width="50%">
       <b>🎨 Front-End</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" width="45" height="45"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" width="45" height="45"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>
     </td>
     <td align="center" width="50%">
       <b>⚙️ Back-End</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="45" height="45"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" width="45" height="45"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="45" height="45"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>🗄️ Banco de Dados</b><br><br>
-      <img src="https://cdn.simpleicons.org/mysql/4479A1" title="SQL" width="42" height="42"/>&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="42" height="42"/>
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" alt="MySQL" width="42" height="42"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="42" height="42"/>
     </td>
     <td align="center">
       <b>🧰 Ferramentas</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;&nbsp;
-      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" title="GitHub" width="42" height="42"/>&nbsp;&nbsp;
-      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" title="Excel" width="42" height="42"/>&nbsp;&nbsp;
-      <img src="https://img.icons8.com/color/48/000000/ms-word.png" title="Word" width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" title="GitHub" alt="GitHub" width="42" height="42"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/000000/ms-excel.png" title="Excel" alt="Excel" width="42" height="42"/>&nbsp;&nbsp;
+      <img src="https://img.icons8.com/color/48/000000/ms-word.png" title="Word" alt="Word" width="42" height="42"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>☁️ Infraestrutura</b><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
